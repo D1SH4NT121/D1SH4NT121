@@ -1,69 +1,17 @@
-<!-- 💾 Retro GitHub README for Dishant 👾 -->
+<h1 align="center">Hi 👋, I'm Dishant Kumar Mohapatra</h1>
+<h3 align="center">Coding in black & white, thinking in colors.</h3>
 
-<p align="center">
-  <img src="https://i.ibb.co/BLxWHXb/retro-title.gif" alt="Retro Banner" width="700" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=d1sh4nt121&label=Profile%20views&color=0e75b6&style=flat" alt="d1sh4nt121" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d1sh4nt121" alt="d1sh4nt121" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=500&color=00F7DE&center=true&vCenter=true&width=650&lines=Hi+I%27m+Dishant+%F0%9F%91%BD;Code+Crafter+%7C+Pixel+Lover+%7C+Gamer;Building+the+future+in+retro+style+%F0%9F%A4%96" alt="Typing SVG" />
-</h1>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="200" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d1sh4nt121&show_icons=true&locale=en&layout=compact" alt="d1sh4nt121" /></p>
 
----
-
-## 🧠 Who Am I?
-
-```bash
-> whoami
-👤 Dishant Mohapatra
-> role --developer --designer --gamer
-> origin --India
-> motto "Hack it till you make it."
-🕹️ “Retro in soul, modern in code.”
-
-⚙️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,python,java,cpp,tailwind,git,figma,vscode,unity,bash,linux" /> </p>
-text
-Copy
-Edit
-🕸️ Frontend : HTML, CSS, JavaScript, React, Tailwind  
-🛠️ Backend  : Node.js, Express, Firebase, MongoDB  
-🧠 Languages: Python, Java, C++, Bash, TypeScript  
-🧪 Tools    : Git, VSCode, Figma, Postman, Linux  
-🎮 GameDev  : Unity, Godot, C#
-📂 Featured Projects
-🚀 Project	Description	Stack
-🎮 RetroRPG	A pixel-perfect Unity-based RPG with open-world maps	Unity, C#, Tiled
-🧪 DevQuest	Gamified learning platform for junior devs	React, Node, MongoDB
-🕶️ SynthSite	Retro-themed personal portfolio (Synthwave UI)	HTML, CSS, JS
-🖥️ Terminal-UI	Custom Linux-style terminal portfolio	Bash, JS, ASCII Art
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&custom_title=~%20Dishant%20System%20~&hide_border=true" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180" /> </p>
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=oldie&no-frame=true&column=6" /> </p>
-🧩 Contribution Grid
-<p align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" /> </p>
-🔗 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-ff6ec7?style=for-the-badge&logo=firefox-browser&logoColor=white" /> </a> <a href="https://discord.com/users/YOUR_DISCORD_ID"> <img src="https://img.shields.io/badge/Dishant%230001-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> </p>
-💾 EXITING TERMINAL...
-bash
-Copy
-Edit
-> logout
-> echo "Thanks for visiting my retro-futuristic vault!"
-✨ “Code like it’s 1995. Deploy like it’s 2095.”
-
-yaml
-Copy
-Edit
-
----
-
-### 📎 Need This as a Downloadable `.md` File?
-I can generate that for you and provide a direct download.
-
-Would you like me to replace all placeholders with your real info now?
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d1sh4nt121&show_icons=true&locale=en" alt="d1sh4nt121" /></p>
